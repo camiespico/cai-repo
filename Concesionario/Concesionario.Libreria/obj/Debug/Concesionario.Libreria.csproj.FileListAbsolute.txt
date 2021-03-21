@@ -1,0 +1,5 @@
+C:\Trabajo\Git-Hub\cai-repo\Concesionario\Concesionario.Libreria\bin\Debug\Concesionario.Libreria.dll
+C:\Trabajo\Git-Hub\cai-repo\Concesionario\Concesionario.Libreria\bin\Debug\Concesionario.Libreria.pdb
+C:\Trabajo\Git-Hub\cai-repo\Concesionario\Concesionario.Libreria\obj\Debug\Concesionario.Libreria.csproj.CoreCompileInputs.cache
+C:\Trabajo\Git-Hub\cai-repo\Concesionario\Concesionario.Libreria\obj\Debug\Concesionario.Libreria.dll
+C:\Trabajo\Git-Hub\cai-repo\Concesionario\Concesionario.Libreria\obj\Debug\Concesionario.Libreria.pdb

@@ -1,0 +1,10 @@
+C:\Trabajo\Git-Hub\cai-repo\Concesionario\Concesionario.Consola\obj\Debug\Concesionario.Consola.csprojAssemblyReference.cache
+C:\Trabajo\Git-Hub\cai-repo\Concesionario\Concesionario.Consola\obj\Debug\Concesionario.Consola.csproj.CoreCompileInputs.cache
+C:\Trabajo\Git-Hub\cai-repo\Concesionario\Concesionario.Consola\bin\Debug\Concesionario.Consola.exe.config
+C:\Trabajo\Git-Hub\cai-repo\Concesionario\Concesionario.Consola\bin\Debug\Concesionario.Consola.exe
+C:\Trabajo\Git-Hub\cai-repo\Concesionario\Concesionario.Consola\bin\Debug\Concesionario.Consola.pdb
+C:\Trabajo\Git-Hub\cai-repo\Concesionario\Concesionario.Consola\bin\Debug\Concesionario.Libreria.dll
+C:\Trabajo\Git-Hub\cai-repo\Concesionario\Concesionario.Consola\bin\Debug\Concesionario.Libreria.pdb
+C:\Trabajo\Git-Hub\cai-repo\Concesionario\Concesionario.Consola\obj\Debug\Concesionario.Consola.csproj.CopyComplete
+C:\Trabajo\Git-Hub\cai-repo\Concesionario\Concesionario.Consola\obj\Debug\Concesionario.Consola.exe
+C:\Trabajo\Git-Hub\cai-repo\Concesionario\Concesionario.Consola\obj\Debug\Concesionario.Consola.pdb
