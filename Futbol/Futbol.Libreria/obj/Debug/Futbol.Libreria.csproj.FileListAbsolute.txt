@@ -1,0 +1,6 @@
+C:\Trabajo\Git-Hub\cai-repo\Futbol\Futbol.Libreria\obj\Debug\Futbol.Libreria.csproj.CoreCompileInputs.cache
+C:\Trabajo\Git-Hub\cai-repo\Futbol\Futbol.Libreria\bin\Debug\Futbol.Libreria.dll
+C:\Trabajo\Git-Hub\cai-repo\Futbol\Futbol.Libreria\bin\Debug\Futbol.Libreria.pdb
+C:\Trabajo\Git-Hub\cai-repo\Futbol\Futbol.Libreria\obj\Debug\Futbol.Libreria.dll
+C:\Trabajo\Git-Hub\cai-repo\Futbol\Futbol.Libreria\obj\Debug\Futbol.Libreria.pdb
+C:\Trabajo\Git-Hub\cai-repo\Futbol\Futbol.Libreria\obj\Debug\Futbol.Libreria.csprojAssemblyReference.cache

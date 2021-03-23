@@ -1,0 +1,10 @@
+C:\Trabajo\Git-Hub\cai-repo\Futbol\Futbol.Consola\obj\Debug\Futbol.Consola.csproj.CoreCompileInputs.cache
+C:\Trabajo\Git-Hub\cai-repo\Futbol\Futbol.Consola\obj\Debug\Futbol.Consola.csprojAssemblyReference.cache
+C:\Trabajo\Git-Hub\cai-repo\Futbol\Futbol.Consola\bin\Debug\Futbol.Consola.exe.config
+C:\Trabajo\Git-Hub\cai-repo\Futbol\Futbol.Consola\bin\Debug\Futbol.Consola.exe
+C:\Trabajo\Git-Hub\cai-repo\Futbol\Futbol.Consola\bin\Debug\Futbol.Consola.pdb
+C:\Trabajo\Git-Hub\cai-repo\Futbol\Futbol.Consola\bin\Debug\Futbol.Libreria.dll
+C:\Trabajo\Git-Hub\cai-repo\Futbol\Futbol.Consola\bin\Debug\Futbol.Libreria.pdb
+C:\Trabajo\Git-Hub\cai-repo\Futbol\Futbol.Consola\obj\Debug\Futbol.Consola.csproj.CopyComplete
+C:\Trabajo\Git-Hub\cai-repo\Futbol\Futbol.Consola\obj\Debug\Futbol.Consola.exe
+C:\Trabajo\Git-Hub\cai-repo\Futbol\Futbol.Consola\obj\Debug\Futbol.Consola.pdb
