@@ -35,6 +35,7 @@ namespace Futbol.Libreria.Entidades.Equipos
                 " y su peso es "+ peso+ "kg. Es "+piernahabil+", su posición en la cancha es "+posicion+
                 " y su nacionalidad es "+nacionalidad;
         }
+
         public string Nombre
         {
             get
